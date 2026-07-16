@@ -92,3 +92,8 @@ The trained model is evaluated using:
 - Model comparison (XGBoost, Gradient Boosting, Linear Regression)
 - Deployment on Streamlit Community Cloud
 - Prediction history and user authentication
+## Output
+<img width="629" height="585" alt="image" src="https://github.com/user-attachments/assets/70d78679-b3da-4b6c-9679-139e003bb82e" />
+<img width="792" height="575" alt="image" src="https://github.com/user-attachments/assets/dc794974-b2f5-4190-9768-5b2920ee4eda" />
+<img width="759" height="581" alt="image" src="https://github.com/user-attachments/assets/e4182429-2476-4a22-b615-76f913bc8905" />
+
